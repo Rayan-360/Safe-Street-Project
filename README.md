@@ -75,9 +75,10 @@ SafeStreet is a web-based platform designed to detect and report road damages, h
 ## License  
 This project is licensed under the MIT License.
 
-## Contributors  
+## Contributors for the project
 - [Rayan](https://github.com/Rayan-360)  
 - [Umair](https://github.com/Umair25524-md)
 - [Viraj](https://github.com/VirajPalnitkar)
 - [Aditya](https://github.com/Adityachary365)
 - [Rohan](https://github.com/Roha-n6002)
+
